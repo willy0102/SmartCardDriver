@@ -1,0 +1,10 @@
+<!-- blue_marker.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#0000FF"
+        android:pathData="M12,2C8.14,2 5,5.14 5,9c0,3.25 2.75,6.25 6.55,10.1l0.45,0.4 0.45,-0.4C16.25,15.25 19,12.25 19,9C19,5.14 15.86,2 12,2zM12,11.5c-1.38,0 -2.5,-1.12 -2.5,-2.5s1.12,-2.5 2.5,-2.5 2.5,1.12 2.5,2.5S13.38,11.5 12,11.5z" />
+</vector>

@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <solid android:color="@color/red"/>
+
+
+
+    <!-- Rounded Hospital Cross -->
+    <path
+        android:fillColor="#D32F2F"
+        android:strokeWidth="1"
+        android:strokeColor="#B71C1C"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M9,4a1,1 0,0 1,1 -1h4a1,1 0,0 1,1 1v5h5a1,1 0,0 1,1 1v4a1,1 0,0 1,-1 1h-5v5a1,1 0,0 1,-1 1h-4a1,1 0,0 1,-1 -1v-5h-5a1,1 0,0 1,-1 -1v-4a1,1 0,0 1,1 -1h5z"/>
+</vector>
